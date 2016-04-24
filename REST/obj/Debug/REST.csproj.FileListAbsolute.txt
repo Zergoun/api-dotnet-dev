@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\REST.dll.config
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\REST.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\REST.pdb
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\Nancy.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\Nancy.Hosting.Aspnet.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\Nancy.xml
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\Nancy.Hosting.Aspnet.xml
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\obj\Debug\REST.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\obj\Debug\REST.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\obj\Debug\REST.pdb
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\RestCore.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\RestCore.pdb
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\log4net.dll
+c:\users\user\documents\visual studio 2015\Projects\REST\REST\bin\log4net.xml

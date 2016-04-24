@@ -1,0 +1,9 @@
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\bin\Debug\RestCore.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\bin\Debug\RestCore.pdb
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\obj\Debug\RestCore.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\obj\Debug\RestCore.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\obj\Debug\RestCore.pdb
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\bin\Debug\Newtonsoft.Json.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\bin\Debug\Newtonsoft.Json.xml
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\bin\Debug\log4net.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestCore\bin\Debug\log4net.xml

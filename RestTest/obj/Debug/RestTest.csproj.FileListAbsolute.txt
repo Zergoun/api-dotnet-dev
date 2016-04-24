@@ -1,0 +1,11 @@
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\obj\Debug\RestTest.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\RestTest.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\RestTest.pdb
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\RestCore.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\RestCore.pdb
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\obj\Debug\RestTest.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\obj\Debug\RestTest.pdb
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\Newtonsoft.Json.dll
+c:\Users\user\documents\visual studio 2015\Projects\REST\RestTest\bin\Debug\Newtonsoft.Json.xml

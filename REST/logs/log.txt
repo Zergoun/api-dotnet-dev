@@ -1,0 +1,82 @@
+INFO  2016-04-23 21:08:54,217  5480ms IndexModule            <.ctor>b__1_0      - teslsdfjskldfj
+INFO  2016-04-23 21:15:51,539  4896ms IndexModule            CallSite.Target    - Calling /fibo/5
+INFO  2016-04-23 21:15:51,573  4929ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(5) = 120
+INFO  2016-04-23 21:15:54,883  8239ms IndexModule            CallSite.Target    - Calling /fibo/6
+INFO  2016-04-23 21:15:54,884  8240ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(6) = 720
+INFO  2016-04-23 21:15:58,147 11503ms IndexModule            CallSite.Target    - Calling /fibo/10000
+INFO  2016-04-23 21:15:58,147 11504ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(10000) = 0
+INFO  2016-04-23 21:16:05,051 18408ms IndexModule            CallSite.Target    - Calling /fibo/1000
+INFO  2016-04-23 21:16:05,052 18408ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(1000) = 0
+INFO  2016-04-23 21:16:09,025 22381ms IndexModule            CallSite.Target    - Calling /fibo/999
+INFO  2016-04-23 21:16:09,025 22382ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(999) = 0
+INFO  2016-04-23 21:16:14,685 28041ms IndexModule            CallSite.Target    - Calling /fibo/88
+INFO  2016-04-23 21:16:14,685 28042ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(88) = 0
+INFO  2016-04-23 21:16:18,447 31804ms IndexModule            CallSite.Target    - Calling /fibo/444
+INFO  2016-04-23 21:16:18,447 31804ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(444) = 0
+INFO  2016-04-23 21:16:21,574 34931ms IndexModule            CallSite.Target    - Calling /fibo/2
+INFO  2016-04-23 21:16:21,575 34932ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(2) = 2
+INFO  2016-04-23 21:16:25,019 38376ms IndexModule            CallSite.Target    - Calling /fibo/6
+INFO  2016-04-23 21:16:25,020 38376ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(6) = 720
+INFO  2016-04-23 21:16:28,359 41715ms IndexModule            CallSite.Target    - Calling /fibo/9
+INFO  2016-04-23 21:16:28,360 41716ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(9) = 362880
+INFO  2016-04-23 21:16:32,459 45816ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-23 21:16:32,460 45817ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 0
+INFO  2016-04-23 21:16:36,320 49676ms IndexModule            CallSite.Target    - Calling /fibo/20
+INFO  2016-04-23 21:16:36,320 49677ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(20) = -2102132736
+INFO  2016-04-23 21:16:40,261 53617ms IndexModule            CallSite.Target    - Calling /fibo/3
+INFO  2016-04-23 21:16:40,261 53618ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(3) = 6
+INFO  2016-04-23 21:16:40,592 53949ms IndexModule            CallSite.Target    - Calling /fibo/30
+INFO  2016-04-23 21:16:40,593 53949ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(30) = 1409286144
+INFO  2016-04-23 21:16:44,743 58100ms IndexModule            CallSite.Target    - Calling /fibo/40
+INFO  2016-04-23 21:16:44,744 58101ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(40) = 0
+INFO  2016-04-23 21:16:48,317 61673ms IndexModule            CallSite.Target    - Calling /fibo/35
+INFO  2016-04-23 21:16:48,318 61674ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(35) = 0
+INFO  2016-04-23 21:16:52,439 65796ms IndexModule            CallSite.Target    - Calling /fibo/32
+INFO  2016-04-23 21:16:52,439 65796ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(32) = -2147483648
+INFO  2016-04-23 21:17:21,331 94688ms IndexModule            <.ctor>b__1_1      - Calling /xml2json
+INFO  2016-04-23 21:17:21,383 94740ms IndexModule            <.ctor>b__1_1      - Request body for /xml2json is :RestCore.Xml
+ERROR 2016-04-23 21:17:21,426 94782ms IndexModule            <.ctor>b__1_1      - Error Converting XML file
+INFO  2016-04-23 21:17:28,624 101981ms IndexModule            <.ctor>b__1_1      - Calling /xml2json
+INFO  2016-04-23 21:17:28,626 101983ms IndexModule            <.ctor>b__1_1      - Request body for /xml2json is :RestCore.Xml
+INFO  2016-04-23 21:17:28,740 102097ms IndexModule            <.ctor>b__1_1      - Converting XML file to json
+INFO  2016-04-23 21:17:28,740 102097ms IndexModule            <.ctor>b__1_1      - Response body for /xml2json is : {"?xml":{"@version":"1.0","@standalone":"no"},"root":{"person":[{"@id":"1","name":"Alan","url":"http://www.google.com"},{"@id":"2","name":"Louis","url":"http://www.yahoo.com"}]}}
+INFO  2016-04-23 21:20:29,367  6059ms IndexModule            CallSite.Target    - Calling /fibo/3
+INFO  2016-04-23 21:20:29,399  6091ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(3) = 6
+INFO  2016-04-23 21:20:34,539 11231ms IndexModule            CallSite.Target    - Calling /fibo/1000
+INFO  2016-04-23 21:20:34,540 11232ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(1000) = -1
+INFO  2016-04-23 21:20:44,457 21149ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-23 21:20:44,458 21149ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 0
+INFO  2016-04-23 21:21:03,554 40246ms IndexModule            CallSite.Target    - Calling /fibo/-10
+INFO  2016-04-23 21:21:03,555 40246ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(-10) = -1
+INFO  2016-04-23 21:25:00,371  1549ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-23 21:25:00,409  1587ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 0
+INFO  2016-04-23 21:25:47,609  2807ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-23 21:25:47,651  2849ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 0
+INFO  2016-04-23 21:25:52,198  7396ms IndexModule            CallSite.Target    - Calling /fibo/99
+INFO  2016-04-23 21:25:52,199  7397ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(99) = 0
+INFO  2016-04-23 21:26:37,862 53060ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-23 21:27:43,453 118651ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 0
+INFO  2016-04-24 00:52:05,636 12380834ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-24 00:52:05,640 12380838ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 0
+INFO  2016-04-24 00:52:06,210 12381408ms IndexModule            CallSite.Target    - Calling /fibo/3
+INFO  2016-04-24 00:52:06,211 12381409ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(3) = 6
+INFO  2016-04-24 01:43:30,846  5556ms IndexModule            CallSite.Target    - Calling /fibo/3
+INFO  2016-04-24 01:43:30,869  5579ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(3) = 2
+INFO  2016-04-24 01:43:40,091 14801ms IndexModule            CallSite.Target    - Calling /fibo/100
+INFO  2016-04-24 01:43:40,092 14802ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(100) = 3314859971
+INFO  2016-04-24 01:43:46,058 20768ms IndexModule            CallSite.Target    - Calling /fibo/101
+INFO  2016-04-24 01:43:46,058 20768ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(101) = -1
+INFO  2016-04-24 01:43:51,890 26600ms IndexModule            CallSite.Target    - Calling /fibo/-10
+INFO  2016-04-24 01:43:51,891 26601ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(-10) = -1
+INFO  2016-04-24 01:43:55,591 30301ms IndexModule            CallSite.Target    - Calling /fibo/0
+INFO  2016-04-24 01:43:55,592 30302ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(0) = -1
+INFO  2016-04-24 01:44:01,319 36029ms IndexModule            CallSite.Target    - Calling /fibo/99
+INFO  2016-04-24 01:44:01,320 36030ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(99) = 3405478146
+INFO  2016-04-24 01:44:08,161 42871ms IndexModule            CallSite.Target    - Calling /fibo/6
+INFO  2016-04-24 01:44:08,161 42871ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(6) = 8
+INFO  2016-04-24 01:44:15,192 49902ms IndexModule            CallSite.Target    - Calling /fibo/5
+INFO  2016-04-24 01:44:15,192 49902ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(5) = 5
+INFO  2016-04-24 13:16:23,922 41578633ms IndexModule            CallSite.Target    - Calling /fibo/3
+INFO  2016-04-24 13:16:23,925 41578635ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(3) = 2
+INFO  2016-04-24 13:16:30,385 41585095ms IndexModule            CallSite.Target    - Calling /fibo/30
+INFO  2016-04-24 13:16:30,385 41585096ms IndexModule            <.ctor>b__1_0      - Calcultaing Fibo(30) = 832040
